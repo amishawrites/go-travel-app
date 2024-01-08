@@ -1,4 +1,4 @@
-# Go Travel
+# Go Travel Application
 
 Go Travel is a mobile application built with React Native for travelers who want to explore different destinations and get information about them.
 It provides comprehensive guidance to travelers, offering a detailed and complete list of information, such as the best hangout spots and top-rated restaurants in the city. The app aims to solve common problems encountered by travelers, including selecting the right destination and finding suitable options based on specific keywords.
